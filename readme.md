@@ -50,9 +50,11 @@ call WARN("some warning message")
 Preset Levels
 ---
 
+```
  - FATAL: 0: magenta
  - ERROR: 1: red
  - WARN : 2: yellow
  - INFO : 3: blue
  - DEBUG: 4: green
+```
 
